@@ -16,7 +16,6 @@ The folder sent contains several files used in the execution of the assigment: `
 
 Then, `solution`  executable can be executed to obtain the results.
 
-## Authors
-@author: Adrià Colás Gallardo.        NIU: 1419956
+## Author
 @author: Xavier Olivé Fernández.    NIU: 1394407
 
