@@ -16,5 +16,5 @@ The folder sent contains several files used in the execution of the assigment: `
 Then, `solution`  executable can be executed to obtain the results.
 
 ## Author
-@author: Xavier Olivé Fernández.
+@author: Xavi Olivé
 
